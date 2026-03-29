@@ -1,0 +1,22 @@
+#hs-save-btn {
+  position: absolute;
+  background-color: rgba(31, 41, 55, 0.9);
+  color: #ffffff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 2147483647;
+  /* maximum z-index so it's always on top */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  transition: background-color 0.2s ease;
+}
+
+#hs-save-btn:hover {
+  background-color: #2563EB;
+  /* modern electric blue */
+}
