@@ -22,24 +22,11 @@ Highlight Saver is a browser extension that allows users to save and manage thei
 3. Access your saved highlights from the extension's interface.
 4. Organize and manage your highlights as needed.
 
-## File Structure
-```
-CactroFrontEnd/
-├── src/
-│   ├── components/
-│   ├── styles/
-│   └── utils/
-├── assets/
-├── public/
-├── README.md
-└── package.json
-```
 
 ## Tech Stack
 - JavaScript (ES6)
-- React
 - CSS
-- Webpack
+- Html
 
 ## Contribution Guidelines
 We welcome contributions from the community! To contribute:
